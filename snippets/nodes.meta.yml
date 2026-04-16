@@ -97,12 +97,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🍏91@oneclickvpnkeys
-  password: 4d092122-268a-4a1a-b23f-83931c5abc3a
-  port: 2056
-  server: 37.114.49.38
-  skip-cert-verify: true
-  sni: flkf.mangshe.xyz
+- name: 'Telegram : @V2ynpv'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: 🌻81@oneclickvpnkeys
