@@ -117,7 +117,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: '@B2vasl1'
   obfs: salamander
   obfs-password: kish-data-center
   password: tgut4USqOM
